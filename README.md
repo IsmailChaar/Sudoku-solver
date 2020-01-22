@@ -1,7 +1,7 @@
 # Sudoku-solver
 This is a Sudoku solver with Backtracking. The code was very fun to write :) !
 
-![Screenshot](screenshot.png)
+![Screenshot](Screenshot.png)
 
 # Fonctionnement de l'algorithme
 
