@@ -1,6 +1,8 @@
 # Sudoku-solver
 This is a Sudoku solver with Backtracking. The code was very fun to write :) !
 
+![Screenshot](screenshot.png)
+
 # Fonctionnement de l'algorithme
 
 1) Trouver un espace vide
