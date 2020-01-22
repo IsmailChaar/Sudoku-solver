@@ -1,11 +1,3 @@
-# Sudoku Solver with Backtracking
-# 1) Trouvez un espace vide
-# 2) Essayez de placer les chiffres 1-9 dans cet espace
-# 3) Vérifiez si ce chiffre est valide à l'emplacement actuel en fonction de la matrice actuelle
-#   a. Si le chiffre est valide, essayez récursivement de remplir le tableau en suivant les étapes 1 à 3.
-#   b. S'il n'est pas valide, réinitialisez le carré que vous venez de remplir et revenez à l'étape précédente.
-# 4) Une fois que la carte est pleine par la définition de cet algorithme, nous avons trouvé une solution.
-
 board = [
     [7, 8, 0, 4, 0, 0, 1, 2, 0],
     [6, 0, 0, 0, 7, 5, 0, 0, 9],
