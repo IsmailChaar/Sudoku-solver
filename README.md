@@ -2,7 +2,7 @@
 This is a Sudoku solver with Backtracking. The code was very fun to write :) !
 
 <p align="center">
-  ![Screenshot](Screenshot.png)
+  <img src="hhttps://i.ibb.co/cJ8K3wJ/Screenshot.png">
 </p>
 
 # Fonctionnement de l'algorithme
